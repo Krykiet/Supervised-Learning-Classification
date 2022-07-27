@@ -1,8 +1,9 @@
 # Supervised-Learning-Classification
-Predicting heart disease using machine learning
+Predicting heart disease using machine learning - proof-of-concept ML project.
 
-This notebook looks into using various Python-based machine learning and data science libraries in an attempt to build a machine learning model
-capable of predicting whether or not someone has heart disease based on their medical attributes.
+This notebook looks into using various Python-based machine learning and data science libraries in an attempt to build a machine learning model.
+
+Classifier will be able to predict whether or not patient has heart disease based on their medical attributes.
 
 Data used for modelling is UCI Heart Disease dataset:
 https://archive.ics.uci.edu/ml/datasets/heart+disease
