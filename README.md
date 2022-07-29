@@ -1,5 +1,5 @@
 # Supervised-Learning-Classification
-Predicting heart disease using machine learning - proof-of-concept ML project.
+Predicting heart disease using machine learning - proof-of-concept ML project. Checked several models using `RandomizedSearchCV` and `GridSearchCV`.
 
 This notebook looks into using various Python-based machine learning and data science libraries in an attempt to build a machine learning model.
 
